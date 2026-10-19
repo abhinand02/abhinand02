@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Flutter, Dart, Java, C, C++**
+- 💬 Ask me about **Flutter, Dart, Next.js, Devops, Node.js**
 
 - 📫 How to reach me **abhinand1855@gmail.com**
 
